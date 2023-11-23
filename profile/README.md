@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://openpheme.org">
-    <img src="https://raw.githubusercontent.com/openpheme/.github/main/profile/logo.png" alt="OpenPheme logo" height="180">
+    <img src="https://raw.githubusercontent.com/openpheme/.github/main/profile/logo.svg" alt="OpenPheme logo" height="180">
   </a>
 </p>
 
