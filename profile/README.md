@@ -12,3 +12,7 @@
 OpenPheme is a collection of APIs and Specification to bring conversational and natural language oriented
 application inside enterprise ecosystem.
 </p>
+
+## 👋 Getting involved
+
+There is a lot to do! If you are interested in getting involved, please join the [Discord Channel ](https://discord.gg/g9BdNeYG). We are a friendly, collaborative group and look forward to working together!
